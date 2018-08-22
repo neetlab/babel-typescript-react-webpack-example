@@ -1,5 +1,5 @@
 # babel-typescript-react-webpack-example
-Practical configuration example for Babel 7 + React + Webpack
+Practical configuration example for Babel 7 + TypeScript + React + Webpack
 
 ## Contains
 - [x] TypeScript 3
