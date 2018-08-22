@@ -1,0 +1,18 @@
+@import "reset";
+
+.my-component {
+  margin: auto;
+  padding: 16px;
+  background-color: antiquewhite;
+
+  .my-component__text {
+    font-size: 36px;
+    color: darkcyan;
+  }
+
+  .my-component__logo {
+    margin-top: 24px;
+    width: 300px;
+    height: auto;
+  }
+}
