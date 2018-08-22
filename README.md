@@ -16,7 +16,7 @@ yarn run start
 ```
 
 ### Test
-Jest, TSLint and tsc's type check are excutable with following registred commands:
+Jest, TSLint and tsc's type check are executable with following commands:
 ```
 yarn run test
 yarn run lint
@@ -27,9 +27,6 @@ yarn run compile
 `@babel/preset-typescript` doesn't check any type of TypeScript files because the preset just for transpile to JavaScript code by removing type information.
 
 Thus, you should compile TypeScript code with `tsc` manually before generating bundle files.
-```
-tsc --noEmit
-```
 
 ## License
 MIT
